@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char get_letter(void)
+void get_letter(char letter)
 {
 
 }
@@ -14,7 +14,7 @@ int main(void)
 {
 	char letter;
 
-	letter = get_letter();
+	get_letter(letter);
 	if ((letter >= 'A' && letter <= 'Z') || (letter >= 'a' && letter <= 'z'))
 		printf("%c is alphabetical", letter);
 	else

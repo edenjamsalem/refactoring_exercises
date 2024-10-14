@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
-int get_number(void)
+
+void get_number(int nbr)
 {
 
 }
@@ -9,7 +9,7 @@ int is_prime(int number)
 {
  
 }
-*/
+
 int main(void)
 {
     int number;

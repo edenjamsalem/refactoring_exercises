@@ -2,7 +2,7 @@
 
 
 // This function asks the user for their name, and returns it as a string
-char *get_name(void)
+void get_name(char *name)
 {
 
 }

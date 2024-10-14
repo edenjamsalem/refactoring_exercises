@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 //This function asks the user for a letter and returns it
-char get_letter(void)
+void get_letter(char letter)
 {
 
 }

@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int	is_lowercase(char letter)
 {
 
@@ -14,10 +14,10 @@ char *reverse_case(char str[])
 {
 
 }
-*/
+
 int main(void) 
 {
-    char str[] = "Mike Hugo";
+    char str[] = "Mike Rotch";
     int i;
     
     i = 0;

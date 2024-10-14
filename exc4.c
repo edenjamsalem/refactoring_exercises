@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // This function asks the user for a number, and returns it as an integer
-int	get_number(void)
+void get_number(int *nbr)
 {
 
 }
